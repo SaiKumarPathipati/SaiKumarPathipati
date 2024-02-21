@@ -1,6 +1,6 @@
   <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/08/System-engineer-to-data-analyst.jpeg" alt="MasterHead" width="1000" height="200">
 </a>
-<h1 align = "center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />  Hi there, I am Sai Kumar Pathipati </h1>
+<h1 align = "center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />  Hi , I am Sai Kumar Pathipati </h1>
 <p align="center">
   <a href="mailto:saipathipati.0508@gmail.com">
     <img src="https://img.shields.io/badge/Mail-f25030?style=for-the-badge&logoColor=white" alt="Mail Badge">
