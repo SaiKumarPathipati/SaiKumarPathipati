@@ -33,5 +33,27 @@ I bring a strong foundation in data analytics, a diverse skill set, and a passio
 ---
 
 ### Skills 🛠️
-
+- **Big Data Technologies**: Hadoop, MapReduce, HDFS
+- **Programming Languages**: 
+  - Python (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn)
+  - R Language (tidyr, caret, rpart, glmnet)
+  - SQL
+- **Cloud Services**: ADLS, Data Factory, Azure DevOps, Databricks, Azure SQL DB, Managed Instance, Azure Synapse Analytics, SQL Server
+- **Databases**: Oracle 11g, SQL Server, Cosmos DB, Redis
+- **Visualization Tools**: Tableau, MS Excel
+- **Version Control**: Git, GitHub
 ### Projects 🚀
+**Crime Analysis - Capstone Project**
+- **Description**: A thorough examination of underlying causes of crime using Python scripting for data extraction and processing, and Tableau for dynamic visualizations.
+- **Technologies**: Python, Tableau
+- **Outcome**: Contributed to informed interventions and effective resource allocation for crime prevention.
+
+**Linear Regression Analysis of Car Price using R-Language**
+- **Description**: Managed data preparation and performed complex regression analysis on a dataset of car prices.
+- **Technologies**: R-Language, ggplot, dplyr
+- **Outcome**: Improved data-driven decision-making procedures in the automobile sector.
+
+**Optimization of Convolutional Neural Networks (CNNs) for the CIFAR-10 Dataset Using TensorFlow**
+- **Description**: Implemented a CNN model for image classification on the CIFAR-10 dataset, fine-tuned hyperparameters, and investigated model performance.
+- **Technologies**: TensorFlow
+- **Outcome**: Achieved a final accuracy of close to 67% and identified areas for model refinement.
