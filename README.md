@@ -5,9 +5,9 @@
   <a href="mailto:saipathipati.0508@gmail.com">
     <img src="https://img.shields.io/badge/Mail-f25030?style=for-the-badge&logoColor=white" alt="Mail Badge">
   </a>
-  <a href="file:///C:/Users/SAI%20KUMAR/Desktop/Resume.docx">
+  <a href="https://drive.google.com/file/d/your_file_id_here/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-f2f542?style=for-the-badge&logoColor=white" alt="Resume Badge">
-  </a>
+</a>
   <a href="https://www.linkedin.com/in/sai-chowdary-41199b209/">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logoColor=white" alt="LinkedIn Badge">
   </a>
