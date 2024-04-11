@@ -13,7 +13,7 @@
   </a>
 </p>
 <p>
-  <a href="[https://www.yourcertificationwebsite.com](https://learn.microsoft.com/en-us/users/saikumarpathipati-8132/credentials/559b9dbc5f1e7265)">
+  <a href="https://learn.microsoft.com/en-us/users/saikumarpathipati-8132/credentials/559b9dbc5f1e7265">
     <img src="https://example.com/path/to/your/certification/logo.png" alt="Certification Badge">
   </a>
 </p>
@@ -62,4 +62,3 @@ I bring a strong foundation in data analytics, a diverse skill set, and a passio
 - **Description**: Implemented a CNN model for image classification on the CIFAR-10 dataset, fine-tuned hyperparameters, and investigated model performance.
 - **Technologies**: TensorFlow
 - **Outcome**: Achieved a final accuracy of close to 67% and identified areas for model refinement.
-- 
