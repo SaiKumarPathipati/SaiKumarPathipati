@@ -12,6 +12,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logoColor=white" alt="LinkedIn Badge">
   </a>
 </p>
+<p>
+  <a href="[https://www.yourcertificationwebsite.com](https://learn.microsoft.com/en-us/users/saikumarpathipati-8132/credentials/559b9dbc5f1e7265)">
+    <img src="https://example.com/path/to/your/certification/logo.png" alt="Certification Badge">
+  </a>
+</p>
 
 
 <div align="center">
@@ -25,7 +30,7 @@
 ### About Me ✌️
 I am a highly motivated data professional with a Master's degree in Advanced Data Analytics, specializing in Data Visualization, Exploratory Data Analysis (EDA), and Machine Learning. My technical skills include expertise in Big Data technologies, programming languages such as Python and R, SQL, cloud services (Google Cloud Platform, Microsoft Azure), databases (MySQL), and visualization tools (Tableau, MS Excel). I have hands-on experience with machine learning algorithms and version control using Git and GitHub.
 
-My experience as a Junior Data Analyst at NextZen Technologies showcased my expertise in SQL, Tableau, and cloud-based data processing. My projects include a Crime Analysis Capstone, linear regression analysis of car prices using R-Language, and optimization of Convolutional Neural Networks (CNNs) for the CIFAR-10 Dataset using TensorFlow.
+My experience as a Junior Data Engineer at NextZen Technologies showcased my expertise in SQL, Tableau, and cloud-based data processing. My projects include a Crime Analysis Capstone, linear regression analysis of car prices using R-Language, and optimization of Convolutional Neural Networks (CNNs) for the CIFAR-10 Dataset using TensorFlow.
 
 I bring a strong foundation in data analytics, a diverse skill set, and a passion for leveraging data-driven insights to contribute effectively to the field.
 
@@ -57,3 +62,4 @@ I bring a strong foundation in data analytics, a diverse skill set, and a passio
 - **Description**: Implemented a CNN model for image classification on the CIFAR-10 dataset, fine-tuned hyperparameters, and investigated model performance.
 - **Technologies**: TensorFlow
 - **Outcome**: Achieved a final accuracy of close to 67% and identified areas for model refinement.
+- 
